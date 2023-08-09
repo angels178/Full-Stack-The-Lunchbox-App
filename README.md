@@ -13,7 +13,7 @@ You can enjoy the following key features:
 
 - User-Friendly Interface
 
-- Create and Manage Transactions
+- Create and Manage Snacks and Drinks
 
 - View and Edit Snacks & Drink
 

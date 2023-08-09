@@ -1,4 +1,4 @@
-# Full Stack Budget App
+# Full Stack The Lunchbox App
 
 ### Description:
 
@@ -13,7 +13,7 @@ You can enjoy the following key features:
 
 - User-Friendly Interface
 
-- Create and Manage Snacks and Drinks
+- Create and Manage Snacks & Drinks
 
 - View and Edit Snacks & Drink
 

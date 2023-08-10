@@ -8,7 +8,7 @@
 
 # Collaborations
 
-This project is collaborated with Michelle and Ambarimar Ulloa
+This project is collaborated with [Michelle Harley](https://github.com/chellxh) and [Ambarimar Ulloa](https://github.com/AmbarimarU)
 
 You can enjoy the following key features:
 
